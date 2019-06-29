@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+    
 var scroll = "uninitialized";
 var formerSection = "#iheartpwa";
 var nextSection = "#intro";
